@@ -1,0 +1,15 @@
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\Persisitence.deps.json
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\Persisitence.dll
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\ref\Persisitence.dll
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\Persisitence.pdb
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\Domain.dll
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\bin\Debug\net5.0\Domain.pdb
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.csproj.AssemblyReference.cache
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.AssemblyInfoInputs.cache
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.AssemblyInfo.cs
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.csproj.CoreCompileInputs.cache
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.csproj.CopyComplete
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.dll
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\ref\Persisitence.dll
+C:\Users\TS\Desktop\.Net + React\Reactivities\Persisitence\obj\Debug\net5.0\Persisitence.pdb
